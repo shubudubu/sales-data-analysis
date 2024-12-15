@@ -1,15 +1,21 @@
 # sales-data-analysis
-Creating a real-time Power BI dashboard to address challenges in the computer hardware market, leveraging a MySQL database with sales, customer, product, and market data for actionable insights.
+### **Data Analysis and Integration**  
+- Analyze the MySQL database structure and content.  
+- Connect MySQL to Power BI for seamless data import.  
 
-<b>*Data Analysis and Integration:</b>
--Analyzing the MySQL database structure and content.
--Connecting MySQL to Power BI to enable seamless data import.
+### **ETL Process (Extract, Transform, Load)**  
+- Clean and transform data to ensure accuracy and usability.  
+- Perform currency normalization and handle invalid or missing values.  
+- Prepare data for analysis and visualization in Power BI.  
 
-<b>ETL Process (Extract, Transform, Load):</b>
-*Cleaning and transforming the data to ensure accuracy and usability.
-*Performing currency normalization and handling invalid or missing values.
-*Preparing the data for analysis and visualization in Power BI.
+### **Dashboard Development**  
+- Build an interactive Power BI dashboard with real-time sales insights.  
+- Incorporate key metrics such as sales performance, customer segmentation, and market trends.  
 
-<b>Dashboard Development:</b>
-*Building an interactive Power BI dashboard with real-time sales insights.
-*Incorporating key metrics such as sales performance, customer segmentation, and market trends.
+---
+
+## Technologies Used  
+- **MySQL**: Data storage and management.  
+- **Power BI**: Data analysis and visualization.  
+- **ETL**: Data cleaning and preparation for visualization.  
+

@@ -16,7 +16,7 @@ This project focuses on creating a real-time, interactive Power BI dashboard to 
 
 ---
 
-![Key Insights](images/key_insights.png "Key Insights Overview")
+![Key Insights](images/key%20insights.png "Key Insights Overview")
 
 ## Technologies Used  
 - **MySQL**: Data storage and management.  

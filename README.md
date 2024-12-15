@@ -1,4 +1,6 @@
 # sales-data-analysis
+This project focuses on creating a real-time, interactive Power BI dashboard to provide actionable insights into sales transactions, customer behavior, product performance, and market trends.  
+
 ### **Data Analysis and Integration**  
 - Analyze the MySQL database structure and content.  
 - Connect MySQL to Power BI for seamless data import.  
